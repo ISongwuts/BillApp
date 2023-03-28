@@ -71,3 +71,9 @@ Thumbs.db
 *.dll
 *.exe
 
+output/
+venv/
+
+tempCodeRunnerFile.py
+
+
